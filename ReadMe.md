@@ -14,6 +14,9 @@ I chose to use OOP principles because they can help make your code more modular,
 
 I used the ES6 syntax for writing classes and modules. I also used the readline and fs modules provided by Node.js to read and process the patient data from the input file.
 
+# Test
+To test the input go to src folder and run node index.js input.txt 
+
 # Author
 
 Ekaterina Cratcha
